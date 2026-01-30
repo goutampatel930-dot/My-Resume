@@ -1,4 +1,4 @@
-# Resume Project - Beginner's Guide
+# Resume Project 
 
 A simple, semantic HTML resume project built using pure HTML5 semantic tags.
 
